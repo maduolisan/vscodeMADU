@@ -1,0 +1,1 @@
+print("O número é par.") if int(input("Digite um número: ")) % 2 == 0 else print("O número é ímpar.")
